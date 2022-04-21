@@ -6,7 +6,7 @@
 
 - Based in San Francisco, California
 
-- Working on creating Programming Curriculums
+- Working on creating Programming Curriculums and a Mental Health Journal Application
 
 - Pursuing my Bachelors of Science in Computer Science and my Masters of Arts in Teaching
 
