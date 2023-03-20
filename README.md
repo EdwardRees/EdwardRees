@@ -11,3 +11,6 @@
 - Pursuing my Bachelors of Science in Computer Science and my Masters of Arts in Teaching
 
 - For more information, head over to: [https://www.edwardrees.info](https://www.edwardrees.info)
+
+- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdwardR16)]()
+
