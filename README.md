@@ -12,6 +12,6 @@
 
 - For more information, head over to: [https://www.edwardrees.info](https://www.edwardrees.info)
 
-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=dark&username=EdwardR16)](#)
+- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=ayu-mirage&username=EdwardR16)](#)
 
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardRees&theme=dark&layout=compact)](#)
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardRees&theme=ayu-mirage&layout=compact)](#)
