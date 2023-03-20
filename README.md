@@ -8,9 +8,13 @@
 
 - Working on creating Programming Curriculums, a Self Care Journal Application, and recreating the College Selector as the College Companion.
 
-- Pursuing my Bachelors of Science in Computer Science and my Masters of Arts in Teaching
+- Received my Bachelors of Science in Computer Science in May of 2022.
+
+- Pursuing my Masters of Arts in Teaching, graduating in May of 2023.
 
 - For more information, head over to: [https://www.edwardrees.info](https://www.edwardrees.info)
+
+## Stats
 
 - [![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardRees&theme=ayu-mirage&count_private=true)](#)
 
