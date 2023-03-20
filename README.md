@@ -8,8 +8,6 @@
 
 - Working on creating Programming Curriculums, a Self Care Journal Application, and recreating the College Selector as the College Companion.
 
-- Received my Bachelors of Science in Computer Science in May of 2022.
-
 - Pursuing my Masters of Arts in Teaching, graduating in May of 2023.
 
 - For more information, head over to: [https://www.edwardrees.info](https://www.edwardrees.info)
