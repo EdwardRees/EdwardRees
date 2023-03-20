@@ -14,4 +14,4 @@
 
 - [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=ayu-mirage&username=EdwardR16)](#)
 
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardRees&theme=ayu-mirage&layout=compact)](#)
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardRees&theme=ayu-mirage&layout=compact&langs_count=10)](#)
