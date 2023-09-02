@@ -6,9 +6,9 @@
 
 - Based in San Francisco, California
 
-- Working on creating Programming Curriculums, a Self Care Journal Application, and recreating the College Selector as the College Companion.
+- Working on recreating the College Selector as the College Companion, along with creating curriculums to teaching Programming.
 
-- Pursuing my Masters of Arts in Teaching, graduating in May of 2023.
+- Graduated with my Masters of Arts in Teaching in May of 2023. Graduated with my Bachelors of Science in Computer Science in May of 2022.
 
 - For more information, head over to: [https://www.edwardrees.info](https://www.edwardrees.info)
 
